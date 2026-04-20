@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.autobuild.enabled": true,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-24",
+            "path": "/Library/Java/JavaVirtualMachines/zulu-24.jdk/Contents/Home",
+            "default": true
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}

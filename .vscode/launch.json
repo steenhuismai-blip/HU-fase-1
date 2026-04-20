@@ -1,0 +1,46 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CustomizableWeekPlanningMenu",
+      "request": "launch",
+      "mainClass": "CustomizableWeekPlanningMenu",
+      "projectName": "Hu fase 1_766ffbb8"
+    },
+    {
+      "type": "java",
+      "name": "LogExercisesMenu",
+      "request": "launch",
+      "mainClass": "LogExercisesMenu",
+      "projectName": "HU fase 1_766ffbb8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fitness",
+      "request": "launch",
+      "mainClass": "Fitness",
+      "projectName": "HU fase 1_766ffbb8",
+      "vmArgs": "--enable-preview",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run LibraryExercisesMenu",
+      "request": "launch",
+      "mainClass": "LibraryExercisesMenu",
+      "projectName": "HU fase 1_766ffbb8",
+      "vmArgs": "--enable-preview",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Run Customer",
+      "request": "launch",
+      "mainClass": "Customer",
+      "projectName": "HU fase 1_766ffbb8",
+      "vmArgs": "--enable-preview",
+      "console": "integratedTerminal"
+    }
+  ]
+}
