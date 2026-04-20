@@ -16,5 +16,5 @@ The applicaion allows users to:
 - Daily & weekly schedule.
 
 **Run**
-javac Fitness.java
-java Main
+- javac Fitness.java
+- java Main
