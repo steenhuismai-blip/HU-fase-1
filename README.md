@@ -28,8 +28,11 @@ The applicaion allows users to:
 - Exercises.
 - Daily & weekly schedule.(The menu does not include an option to select a day, but you ca choose on within the weekly schedule and return to it later).
 
-**Run**
-- javac Fitness.java
-- java Fitness
+## ▶️ Run the application
 
-This is a simple terminal-based application, so you only need to run `Fitness.java`.
+### In Visual Studio Code
+Open `Fitness.java` and press the **Run** button.
+
+### In the terminal
+javac Fitness.java
+java Fitness
