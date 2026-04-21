@@ -19,7 +19,7 @@ The goal of the app is to help users manage their fitness routine directly from 
 The applicaion allows users to:
 - Enter and manage personal fitness data.
 - View and select different exercises.
-- Generate and follow a daily schedule.
+- Able to revise personal data.
 - Generate and follow a weekly schedule.
 - Work with a varied exercises to keep workouts diverse.
 
