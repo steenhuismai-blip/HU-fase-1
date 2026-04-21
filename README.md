@@ -1,4 +1,4 @@
-**Fitness app**
+## Fitness app
 
 This project is a terminal-based fitness application built in Java Visual Studio code. 
 The goal of the app is to help users manage their fitness routine directly from the command line.
@@ -23,7 +23,7 @@ The applicaion allows users to:
 - Generate and follow a weekly schedule.
 - Work with a varied exercises to keep workouts diverse.
 
-**Features**
+### Features
 - User data input.
 - Exercises.
 - Daily & weekly schedule.(The menu does not include an option to select a day, but you ca choose on within the weekly schedule and return to it later).
