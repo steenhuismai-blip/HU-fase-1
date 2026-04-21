@@ -26,7 +26,7 @@ The applicaion allows users to:
 **Features**
 - User data input.
 - Exercises.
-- Daily & weekly schedule.
+- Daily & weekly schedule.(The menu does not include an option to select a day, but you ca choose on within the weekly schedule and return to it later).
 
 **Run**
 - javac Fitness.java
