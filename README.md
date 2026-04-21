@@ -30,4 +30,6 @@ The applicaion allows users to:
 
 **Run**
 - javac Fitness.java
-- java Main
+- java Fitness
+
+This is a simple terminal-based application, so you only need to run `Fitness.java`.
