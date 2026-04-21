@@ -5,10 +5,10 @@ The goal of the app is to help users manage their fitness routine directly from 
 
 <h3>Screenshot(s)</h3>
 <h6>Start</h6>
-<img src="https://github.com/user-attachments/assets/b0613b7e-361a-42e7-adb9-44c0f1cce167" />
+<img src="https://github.com/user-attachments/assets/a6b17eb9-8308-4fd9-ab4e-b43e47755dcc" />
 
 <h6>Menu</h6>
-<img src="https://github.com/user-attachments/assets/a6b17eb9-8308-4fd9-ab4e-b43e47755dcc" />
+<img src="https://github.com/user-attachments/assets/b0613b7e-361a-42e7-adb9-44c0f1cce167" />
 
 <h6>Chosen -> existing schedule</h6>
 <img src="https://github.com/user-attachments/assets/2a82a747-15bc-4e13-a6cc-2d4699ec403f" />
