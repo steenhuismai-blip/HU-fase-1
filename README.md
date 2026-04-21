@@ -4,7 +4,7 @@ This project is a terminal-based fitness application built in Java Visual Studio
 The goal of the app is to help users manage their fitness routine directly from the command line.
 
 <h3>Screenshot(s)</h3>
-Start
+<h3>Start</h3>
 <img src="https://github.com/user-attachments/assets/b0613b7e-361a-42e7-adb9-44c0f1cce167" />
 
 Menu
